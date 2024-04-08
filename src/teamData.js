@@ -4,7 +4,7 @@ const sethMiller = {
   divison: 'MPO',
   favEvent: 'Steel City Shootout',
   favCourse: 'Maple Hill',
-  picture: '',
+  picture: 'seth-miller-headshot.jpg',
 };
 
 const alexKrause = {
@@ -13,7 +13,7 @@ const alexKrause = {
   divison: 'MPO',
   favEvent: 'The Harvest',
   favCourse: 'Pueblo City Park',
-  picture: '',
+  picture: null,
 };
 
 const andyHumphrey = {
@@ -22,7 +22,7 @@ const andyHumphrey = {
   divison: 'MA1',
   favEvent: 'The Harvest',
   favCourse: 'Pueblo City Park',
-  picture: '',
+  picture: null,
 };
 
 const brandynLee = {
@@ -31,7 +31,7 @@ const brandynLee = {
   divison: 'MA1',
   favEvent: 'The Harvest',
   favCourse: 'Pueblo City Park',
-  picture: '',
+  picture: null,
 };
 
 const level12 = {
@@ -42,14 +42,14 @@ const level12 = {
     alexKrause,
     brandynLee,
     andyHumphrey,
-    'Carter Martinson',
-    'Hank Kirwan',
-    'Jerome Knott',
-    'Maverick Robertson',
-    'Nick Greenfield',
-    'Nikko Locastro',
-    'Noah Vialpando',
-    'Peter Heidlauf',
+    // 'Carter Martinson',
+    // 'Hank Kirwan',
+    // 'Jerome Knott',
+    // 'Maverick Robertson',
+    // 'Nick Greenfield',
+    // 'Nikko Locastro',
+    // 'Noah Vialpando',
+    // 'Peter Heidlauf',
     sethMiller,
   ],
 };
