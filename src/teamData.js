@@ -122,7 +122,7 @@ const level12 = {
 const levelAmbassador = {
   name: 'TKD Ambassador',
   description:
-    "An active TKD Ambassador is an advocate for the team and the sport; serving as an example of sportsmanship,humility, and a genuine love for the disc golf community.Beyond the competitive arena, they actively contributeto the team's comradery, fostering a positive and supportive environment for their fellow teammates. </br> This division of the team is not just about being an athlete, but a driving force, shaping the team's culture and positively impacting the local and national disc golf community.",
+    "An active TKD Ambassador is an advocate for the team and the sport; serving as an example of sportsmanship,humility, and a genuine love for the disc golf community. Beyond the competitive arena, they actively contributeto the team's comradery, fostering a positive and supportive environment for their fellow teammates. This division of the team is not just about being an athlete, but a driving force, shaping the team's culture and positively impacting the local and national disc golf community.",
   players: [
     'Adam Callard',
     'Chris Walls',
@@ -163,7 +163,7 @@ const teamBOTC = {
 const teamAlpha = {
   name: 'TKD Alpha',
   description:
-    'Gen Alpha is a dynamic and spirited group of young players who bring a fresh and energetic perspective to the sport. Comprising enthusiastic individuals ranging from beginners to emerging talents, this team is united by a shared love for disc golf and a collective eagerness to learn and grow. Coaches and mentors play a pivotal role in nurturing their skills, providing guidance, and instilling values of sportsmanship and teamwork. </br> The Gen Alphas is not just about honing athletic abilities but also about fostering a sense of community and friendship among its members. As these young players navigate the disc golf courses with enthusiasm and determination, they embody the future of the sport carrying the spirit of fun and teamwork into every throw and every shared victory.',
+    'Gen Alpha is a dynamic and spirited group of young players who bring a fresh and energetic perspective to the sport. Comprising enthusiastic individuals ranging from beginners to emerging talents, this team is united by a shared love for disc golf and a collective eagerness to learn and grow. Coaches and mentors play a pivotal role in nurturing their skills, providing guidance, and instilling values of sportsmanship and teamwork. The Gen Alphas is not just about honing athletic abilities but also about fostering a sense of community and friendship among its members. As these young players navigate the disc golf courses with enthusiasm and determination, they embody the future of the sport carrying the spirit of fun and teamwork into every throw and every shared victory.',
   players: ['Alex Chahal', 'Tanner Cripe'],
 };
 
