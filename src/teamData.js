@@ -11,27 +11,92 @@ const alexKrause = {
   name: 'Alexander Krause',
   pdga: '100061',
   divison: 'MPO',
-  favEvent: 'The Harvest',
-  favCourse: 'Pueblo City Park',
-  picture: null,
+  favEvent: '',
+  favCourse: '',
+  picture: 'alex-krause-headshot.jpg',
 };
 
 const andyHumphrey = {
   name: 'Andy Humphrey',
   pdga: '241249',
   divison: 'MA1',
-  favEvent: 'The Harvest',
-  favCourse: 'Pueblo City Park',
-  picture: null,
+  favEvent: '',
+  favCourse: '',
+  picture: 'andy-humphrey-headshot.jpg',
 };
 
 const brandynLee = {
   name: 'Brandyn Lee',
   pdga: '146785',
   divison: 'MA1',
-  favEvent: 'The Harvest',
-  favCourse: 'Pueblo City Park',
+  favEvent: '',
+  favCourse: '',
+  picture: 'brandyn-lee-headshot.jpg',
+};
+
+const carterMartinson = {
+  name: 'Carter Martinson',
+  pdga: '202817',
+  divison: 'MA2',
+  favEvent: '',
+  favCourse: '',
+  picture: 'carter-martinson-headshot.jpg',
+};
+const hankKirwan = {
+  name: 'Hank Kirwan',
+  pdga: '9059',
+  divison: 'MP40',
+  favEvent: '',
+  favCourse: '',
+  picture: 'hank-kirwan-headshot.jpg',
+};
+const jeromeKnott = {
+  name: 'Jerome Knott',
+  pdga: '42369',
+  divison: 'MPO',
+  favEvent: '',
+  favCourse: '',
+  picture: 'jerome-knott-headshot.jpg',
+};
+const maverickRobertson = {
+  name: 'Maverick Robertson',
+  pdga: '65118',
+  divison: 'MPO',
+  favEvent: '',
+  favCourse: '',
+  picture: 'maverick-robertson-headshot.jpg',
+};
+const nickGreenfield = {
+  name: 'Nick Greenfield',
+  pdga: '96947',
+  divison: 'MA1',
+  favEvent: '',
+  favCourse: '',
+  picture: 'nick-greenfield-headshot.jpg',
+};
+const nikkoLocastro = {
+  name: 'Nikko Locastro',
+  pdga: '11534',
+  divison: 'MPO',
+  favEvent: '',
+  favCourse: '',
+  picture: 'nikko-locastro-headshot.jpg',
+};
+const noahVialpando = {
+  name: 'Noah Vialpando',
+  pdga: '100966',
+  divison: 'MA1',
+  favEvent: '',
+  favCourse: '',
   picture: null,
+};
+const peterHeidlauf = {
+  name: 'Peter Heidlauf',
+  pdga: '127191',
+  divison: 'MPO',
+  favEvent: '',
+  favCourse: '',
+  picture: 'peter-heidlauf-headshot.jpg',
 };
 
 const level12 = {
@@ -40,16 +105,16 @@ const level12 = {
     'An active TKD Twelve Member is a dynamic and dedicated athlete who embodies a passion for the sport both on and off the course. This individual is characterized by a relentless work ethic, consistently engaging in rigorous training routines to enhance their skills, physical fitness, and mental acuity. Their commitment to excellence is evident in their strategic approach to the game, as they fine-tune their throwing techniques.',
   players: [
     alexKrause,
-    brandynLee,
     andyHumphrey,
-    // 'Carter Martinson',
-    // 'Hank Kirwan',
-    // 'Jerome Knott',
-    // 'Maverick Robertson',
-    // 'Nick Greenfield',
-    // 'Nikko Locastro',
-    // 'Noah Vialpando',
-    // 'Peter Heidlauf',
+    brandynLee,
+    carterMartinson,
+    hankKirwan,
+    jeromeKnott,
+    maverickRobertson,
+    nickGreenfield,
+    nikkoLocastro,
+    noahVialpando,
+    peterHeidlauf,
     sethMiller,
   ],
 };
