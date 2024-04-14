@@ -56,10 +56,28 @@
 
 .popup-inner {
   position: relative;
-  padding: 32px;
+  padding: 10px;
   width: 100%;
-  max-width: 640px;
-  background-color: white;
+  max-width: 660px;
+  border: black 3px solid;
+  background-color: var(--header_color);
+}
+
+.popup-inner h1 {
+  margin: 10px 0;
+}
+
+.popup-inner p {
+  font-size: 18px;
+  font-weight: 500;
+  color: white;
+  margin: 5px;
+}
+
+.player-picture-popup {
+  max-height: 60vh;
+  border: black 2px solid;
+  object-fit: contain;
 }
 
 .team-box {
@@ -69,15 +87,22 @@
   padding: 0 50px;
 }
 
+.team-name {
+  margin-bottom: 10px;
+  font-size: 30px;
+}
+
 .team-description {
   padding: 0 20px;
+  max-width: 82vw;
 }
 
 .player-grid {
   display: grid;
   grid-template-columns: repeat(3, minmax(200px, 1fr));
-  gap: 20px;
+  gap: 30px;
   padding: 20px;
+  margin-bottom: 30px;
 }
 
 .player-name {
@@ -88,7 +113,16 @@
   display: flex;
   flex-direction: column;
   align-items: center;
-  border: black 1px solid;
+  border: var(--header_color) 3px solid;
+  background-color: var(--header_color);
+  font-size: 13px;
+  color: white;
+}
+
+.player-box:hover {
+  cursor: pointer;
+  border: black 3px solid;
+  color: black;
 }
 
 .player-picture {
