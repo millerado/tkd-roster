@@ -1,9 +1,17 @@
-function PlayerPopup({ player, trigger }) {
+function PlayerPopup({ player, trigger, setPopupState }) {
+  function handleClick() {
+    setPopupState(false);
+  }
+
   return trigger ? (
-    <div className='popup'>
+    <div className='popup' onClick={handleClick}>
       <div className='popup-inner'>
         <img
-          src={require(`../img/${player.picture}`)}
+          src={
+            player.picture
+              ? require(`../img/${player.picture}`)
+              : require('../img/blank-profile-picture.png')
+          }
           alt={player.name}
           className='player-picture-popup'
         />

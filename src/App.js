@@ -11,7 +11,11 @@ function App() {
   return (
     <div className='App'>
       <Header />
-      <PlayerPopup trigger={popupState} player={player} />
+      <PlayerPopup
+        trigger={popupState}
+        player={player}
+        setPopupState={setPopupState}
+      />
       <h1>Team Kwik Discs</h1>
       {allTeams.map((team, index) => (
         <TeamLevel
