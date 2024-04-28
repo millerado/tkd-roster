@@ -27,6 +27,7 @@ function PlayerPopup({ player, trigger, setPopupState }) {
               <a
                 href={`https://pdga.com/player/${player.pdga}`}
                 target='_blank'
+                rel='noreferrer'
               >
                 {player.pdga}
               </a>
