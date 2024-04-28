@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/static/css/main.dd71d291.css",
-    "main.js": "/static/js/main.240da0a1.js",
-    "static/js/453.2f8a6c23.chunk.js": "/static/js/453.2f8a6c23.chunk.js",
-    "static/media/brandyn-lee-headshot.jpg": "/static/media/brandyn-lee-headshot.2c18a1b9f587f7cd4b7c.jpg",
-    "static/media/alex-krause-headshot.jpg": "/static/media/alex-krause-headshot.43196f9b55bc47cdb8be.jpg",
-    "static/media/carter-martinson-headshot.jpg": "/static/media/carter-martinson-headshot.2a84a6d9a9ebb501d78c.jpg",
-    "static/media/andy-humphrey-headshot.jpg": "/static/media/andy-humphrey-headshot.51b1bf18a3ae6f41a1ea.jpg",
-    "static/media/hank-kirwan-headshot.jpg": "/static/media/hank-kirwan-headshot.95ad2e39af201816b3e6.jpg",
-    "static/media/KD-Badge.png": "/static/media/KD-Badge.e324de97c48b2bc6b943.png",
-    "static/media/seth-miller-headshot.jpg": "/static/media/seth-miller-headshot.067c462aacb09d3a0d41.jpg",
-    "static/media/peter-heidlauf-headshot.jpg": "/static/media/peter-heidlauf-headshot.12652176035d42109df5.jpg",
-    "static/media/maverick-robertson-headshot.jpg": "/static/media/maverick-robertson-headshot.b1e9617f0fca0c11a6ca.jpg",
-    "static/media/jerome-knott-headshot.jpg": "/static/media/jerome-knott-headshot.f5e0595ba09d3ebbe604.jpg",
-    "static/media/nick-greenfield-headshot.jpg": "/static/media/nick-greenfield-headshot.26f407e9de9df3ff1f81.jpg",
-    "static/media/blank-profile-picture.png": "/static/media/blank-profile-picture.afe07f57979e2bba2183.png",
-    "static/media/nikko-locastro-headshot.jpg": "/static/media/nikko-locastro-headshot.c768cfe7965f87a1f1bd.jpg",
-    "index.html": "/index.html",
-    "main.dd71d291.css.map": "/static/css/main.dd71d291.css.map",
-    "main.240da0a1.js.map": "/static/js/main.240da0a1.js.map",
-    "453.2f8a6c23.chunk.js.map": "/static/js/453.2f8a6c23.chunk.js.map"
+    "main.css": "/tkd-roster/static/css/main.dd71d291.css",
+    "main.js": "/tkd-roster/static/js/main.db7b619f.js",
+    "static/js/453.2f8a6c23.chunk.js": "/tkd-roster/static/js/453.2f8a6c23.chunk.js",
+    "static/media/brandyn-lee-headshot.jpg": "/tkd-roster/static/media/brandyn-lee-headshot.2c18a1b9f587f7cd4b7c.jpg",
+    "static/media/alex-krause-headshot.jpg": "/tkd-roster/static/media/alex-krause-headshot.43196f9b55bc47cdb8be.jpg",
+    "static/media/carter-martinson-headshot.jpg": "/tkd-roster/static/media/carter-martinson-headshot.2a84a6d9a9ebb501d78c.jpg",
+    "static/media/andy-humphrey-headshot.jpg": "/tkd-roster/static/media/andy-humphrey-headshot.51b1bf18a3ae6f41a1ea.jpg",
+    "static/media/hank-kirwan-headshot.jpg": "/tkd-roster/static/media/hank-kirwan-headshot.95ad2e39af201816b3e6.jpg",
+    "static/media/KD-Badge.png": "/tkd-roster/static/media/KD-Badge.e324de97c48b2bc6b943.png",
+    "static/media/seth-miller-headshot.jpg": "/tkd-roster/static/media/seth-miller-headshot.067c462aacb09d3a0d41.jpg",
+    "static/media/peter-heidlauf-headshot.jpg": "/tkd-roster/static/media/peter-heidlauf-headshot.12652176035d42109df5.jpg",
+    "static/media/maverick-robertson-headshot.jpg": "/tkd-roster/static/media/maverick-robertson-headshot.b1e9617f0fca0c11a6ca.jpg",
+    "static/media/jerome-knott-headshot.jpg": "/tkd-roster/static/media/jerome-knott-headshot.f5e0595ba09d3ebbe604.jpg",
+    "static/media/nick-greenfield-headshot.jpg": "/tkd-roster/static/media/nick-greenfield-headshot.26f407e9de9df3ff1f81.jpg",
+    "static/media/blank-profile-picture.png": "/tkd-roster/static/media/blank-profile-picture.afe07f57979e2bba2183.png",
+    "static/media/nikko-locastro-headshot.jpg": "/tkd-roster/static/media/nikko-locastro-headshot.c768cfe7965f87a1f1bd.jpg",
+    "index.html": "/tkd-roster/index.html",
+    "main.dd71d291.css.map": "/tkd-roster/static/css/main.dd71d291.css.map",
+    "main.db7b619f.js.map": "/tkd-roster/static/js/main.db7b619f.js.map",
+    "453.2f8a6c23.chunk.js.map": "/tkd-roster/static/js/453.2f8a6c23.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.dd71d291.css",
-    "static/js/main.240da0a1.js"
+    "static/js/main.db7b619f.js"
   ]
 }
