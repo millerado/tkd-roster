@@ -23,7 +23,14 @@ function PlayerPopup({ player, trigger, setPopupState }) {
           </tr>
           <tr>
             <td className='column-left'>PDGA #:</td>
-            <td className='column-right'>{player.pdga}</td>
+            <td className='column-right'>
+              <a
+                href={`https://pdga.com/player/${player.pdga}`}
+                target='_blank'
+              >
+                {player.pdga}
+              </a>
+            </td>
           </tr>
           <tr>
             <td className='column-left'>Favorite Event:</td>
