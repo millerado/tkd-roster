@@ -21,7 +21,7 @@ h1 {
 
 .teams {
   display: flex;
-  flex-direction: row;
+  flex-direction: column;
   align-items: center;
   justify-content: center;
 }
@@ -169,6 +169,10 @@ h1 {
   .popup-inner tr {
     font-size: 23px;
   }
+
+  .teams {
+    flex-direction: row;
+  }
 }
 
 @media only screen and (min-width: 1700px) {
@@ -180,131 +184,3 @@ h1 {
     font-size: 15px;
   }
 }
-
-/* 
-.header {
-  display: hidden;
-  flex-direction: row;
-  justify-content: space-between;
-  height: 90px;
-  background-color: var(--header_color);
-  padding: 0 30px;
-}
-
-.image-box {
-  height: 100%;
-}
-
-.image-box img {
-  height: 100%;
-  object-fit: contain;
-  justify-self: left;
-}
-
-.navigation {
-  display: flex;
-  align-items: center;
-  text-align: center;
-}
-
-.menu-text {
-  color: white;
-  font-size: 18px;
-  margin: 0 20px;
-  font-weight: 700;
-}
-
-.popup {
-  position: fixed;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100vh;
-  background-color: rgba(0, 0, 0, 0.2);
-
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
-
-.popup-inner {
-  position: relative;
-  padding: 10px;
-  width: 100%;
-  max-width: 660px;
-  border: black 3px solid;
-  background-color: var(--header_color);
-}
-
-.popup-inner h1 {
-  margin: 10px 0;
-}
-
-.popup-inner p {
-  font-size: 18px;
-  font-weight: 500;
-  color: white;
-  margin: 5px;
-}
-
-.player-picture-popup {
-  max-height: 60vh;
-  border: black 2px solid;
-  object-fit: contain;
-}
-
-.team-box {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  padding: 0 50px;
-}
-
-.team-name {
-  margin-bottom: 10px;
-  font-size: 30px;
-}
-
-.team-description {
-  padding: 0 20px;
-  max-width: 80vw;
-  margin: 0 auto;
-  text-align: left;
-  font-size: 15px;
-}
-
-.player-grid {
-  display: grid;
-  grid-template-columns: repeat(3, minmax(200px, 1fr));
-  gap: 30px;
-  padding: 20px;
-  margin-bottom: 30px;
-  width: 70%;
-}
-
-.player-name {
-  margin: 0;
-}
-
-.player-box {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  background-color: var(--header_color);
-  font-size: 13px;
-  color: white;
-  border-radius: 12px;
-  box-shadow: -10px 5px 5px white;
-  margin-top: 20px;
-}
-
-.player-box:hover {
-  cursor: pointer;
-  box-shadow: -10px 5px 5px grey;
-}
-
-.player-picture {
-  width: 100%;
-  object-fit: fill;
-  border-radius: 12px;
-} */
