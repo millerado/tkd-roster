@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/tkd-roster/static/css/main.dd71d291.css",
+    "main.css": "/tkd-roster/static/css/main.1bf6e37e.css",
     "main.js": "/tkd-roster/static/js/main.db7b619f.js",
     "static/js/453.2f8a6c23.chunk.js": "/tkd-roster/static/js/453.2f8a6c23.chunk.js",
     "static/media/brandyn-lee-headshot.jpg": "/tkd-roster/static/media/brandyn-lee-headshot.2c18a1b9f587f7cd4b7c.jpg",
@@ -17,12 +17,12 @@
     "static/media/blank-profile-picture.png": "/tkd-roster/static/media/blank-profile-picture.afe07f57979e2bba2183.png",
     "static/media/nikko-locastro-headshot.jpg": "/tkd-roster/static/media/nikko-locastro-headshot.c768cfe7965f87a1f1bd.jpg",
     "index.html": "/tkd-roster/index.html",
-    "main.dd71d291.css.map": "/tkd-roster/static/css/main.dd71d291.css.map",
+    "main.1bf6e37e.css.map": "/tkd-roster/static/css/main.1bf6e37e.css.map",
     "main.db7b619f.js.map": "/tkd-roster/static/js/main.db7b619f.js.map",
     "453.2f8a6c23.chunk.js.map": "/tkd-roster/static/js/453.2f8a6c23.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.dd71d291.css",
+    "static/css/main.1bf6e37e.css",
     "static/js/main.db7b619f.js"
   ]
 }
